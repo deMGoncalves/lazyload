@@ -26,7 +26,7 @@ touch src/index.js
 
 sed -i 's/\$name/'$name'/' package.json
 sed -i 's/\$name/'$name'/' README.md
-sed -i 's/\$descripton/'$description'/' README.md
+sed -i 's/\$description/'$description'/' README.md
 
 yarn install
 yarn run husky install
