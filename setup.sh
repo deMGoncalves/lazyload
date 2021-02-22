@@ -4,7 +4,7 @@ while getopts n:d: flag
 do
   case "${flag}" in
     n) name=${OPTARG};;
-    d) description${OPTARG};;
+    d) description=${OPTARG};;
   esac
 done
 
