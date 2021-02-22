@@ -17,7 +17,7 @@ curl -o tsconfig.json https://gist.githubusercontent.com/deMGoncalves/4eb7646513
 curl -o package.json https://gist.githubusercontent.com/deMGoncalves/534eb8a01a9edbc9cd01ba13cbb6c949/raw/package.json
 curl -o publish.sh https://gist.githubusercontent.com/deMGoncalves/1b67ba9902db2aaae71a7362cfe66140/raw/publish.sh
 curl -o LICENSE https://gist.githubusercontent.com/deMGoncalves/594e283b3fdfa79640406ac40b3c55a7/raw/LICENSE
-curl -l README.md https://gist.githubusercontent.com/deMGoncalves/5dbfe78d42d01cac4e91eeca9dc21262/raw/README.md
+curl -o README.md https://gist.githubusercontent.com/deMGoncalves/5dbfe78d42d01cac4e91eeca9dc21262/raw/README.md
 
 mkdir .husky
 mkdir src
