@@ -1,1 +1,1 @@
-"use strict";
+export { default } from "./lazyLoad";
