@@ -1894,7 +1894,7 @@ eslint@^7.19.0:
 
 eslintrc@deMGoncalves/eslintrc:
   version "0.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/eslintrc/tar.gz/4cce19d43fdf710032cdbfc1cb78228757ecf5e0"
+  resolved "https://codeload.github.com/deMGoncalves/eslintrc/tar.gz/f88d25f0b7846343a6072f79dd2ec3f21fb49954"
 
 espree@^7.3.0, espree@^7.3.1:
   version "7.3.1"
